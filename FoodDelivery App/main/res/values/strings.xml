@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Sri Lankan Food Delivery</string>
+    <string name="fullname">Atheeq Mahroof</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="EnterUsername">Enter Username</string>
+    <string name="EnterPassword">Enter Password</string>
+    <string name="Login">Login</string>
+    <string name="Register">Register</string>
+
+
+    <string name="FirstName">First Name</string>
+    <string name="LastName">Last Name</string>
+    <string name="Address">Address</string>
+    <string name="SecurityCode">Security Code</string>
+    <string name="EmailAddress">Email Address</string>
+    <string name="Password">Password</string>
+    <string name="Username">Username</string>
+    <string name="ConfirmPassword">Confirm Password</string>
+</resources>
